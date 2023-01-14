@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F4F1EE&lines=Practice+task⮯&font=Fira+Code&size=21&pause=1000)
 
-- ### [*Web/форма—расписание.*](https://teachers.skyeng.ru/schedule)
+- ### __*Web/форма—расписание.*__
 
 <!--start-->
 > ### Test-Cases 1 "Smoke-test"
